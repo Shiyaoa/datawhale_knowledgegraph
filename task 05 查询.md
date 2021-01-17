@@ -16,7 +16,7 @@ MATCH (n)<-[:DEPARTMENT_IS]-(d:Disease)-[:HAS_COMPLICATION]->(c:Complication) WH
 
 经试验，发现这是因为原始数据中存在重复但不完全一致的记录导致的。
 
-![1](C:\Users\xiesy\Desktop\1.png)![2](C:\Users\xiesy\Desktop\2.png)![3](C:\Users\xiesy\Desktop\3.png)
+![1](pic\1.png)![2](pic\2.png)![3](pic\3.png)
 
 
 
