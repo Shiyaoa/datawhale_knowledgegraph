@@ -18,7 +18,7 @@ MATCH (n)<-[:DEPARTMENT_IS]-(d:Disease)-[:HAS_COMPLICATION]->(c:Complication) WH
 
 ![image](https://github.com/Shiyaoa/datawhale_knowledgegraph/blob/main/pic/1.png)
 ![image](https://github.com/Shiyaoa/datawhale_knowledgegraph/blob/main/pic/2.png)
-![image](https://github.com/Shiyaoa/datawhale_knowledgegraph/blob/main/pic/1.png)
+![image](https://github.com/Shiyaoa/datawhale_knowledgegraph/blob/main/pic/3.png)
 
 
 
